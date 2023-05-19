@@ -1,0 +1,13 @@
+C:\Users\lgpc\Desktop\남경림\응소실\testcase1\testcase1\bin\Debug\testcase1.exe.config
+C:\Users\lgpc\Desktop\남경림\응소실\testcase1\testcase1\bin\Debug\testcase1.exe
+C:\Users\lgpc\Desktop\남경림\응소실\testcase1\testcase1\bin\Debug\testcase1.pdb
+C:\Users\lgpc\Desktop\남경림\응소실\testcase1\testcase1\obj\Debug\testcase1.csproj.AssemblyReference.cache
+C:\Users\lgpc\Desktop\남경림\응소실\testcase1\testcase1\obj\Debug\testcase1.csproj.SuggestedBindingRedirects.cache
+C:\Users\lgpc\Desktop\남경림\응소실\testcase1\testcase1\obj\Debug\testcase1.SetForm.resources
+C:\Users\lgpc\Desktop\남경림\응소실\testcase1\testcase1\obj\Debug\testcase1.MySet1.resources
+C:\Users\lgpc\Desktop\남경림\응소실\testcase1\testcase1\obj\Debug\testcase1.MySet2.resources
+C:\Users\lgpc\Desktop\남경림\응소실\testcase1\testcase1\obj\Debug\testcase1.Properties.Resources.resources
+C:\Users\lgpc\Desktop\남경림\응소실\testcase1\testcase1\obj\Debug\testcase1.csproj.GenerateResource.cache
+C:\Users\lgpc\Desktop\남경림\응소실\testcase1\testcase1\obj\Debug\testcase1.csproj.CoreCompileInputs.cache
+C:\Users\lgpc\Desktop\남경림\응소실\testcase1\testcase1\obj\Debug\testcase1.exe
+C:\Users\lgpc\Desktop\남경림\응소실\testcase1\testcase1\obj\Debug\testcase1.pdb

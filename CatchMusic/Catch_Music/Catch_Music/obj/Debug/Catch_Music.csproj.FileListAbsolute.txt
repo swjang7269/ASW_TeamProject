@@ -1,0 +1,85 @@
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Catch_Music.exe.config
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Catch_Music.exe
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Catch_Music.pdb
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.csproj.AssemblyReference.cache
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.csproj.SuggestedBindingRedirects.cache
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.MultiChoose.resources
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.Properties.Resources.resources
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.csproj.GenerateResource.cache
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.csproj.CoreCompileInputs.cache
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.exe
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.pdb
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.Client.resources
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.Server.resources
+C:\Users\lgpc\Desktop\응소실\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Catch_Music.exe.config
+C:\Users\lgpc\Desktop\응소실\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Catch_Music.exe
+C:\Users\lgpc\Desktop\응소실\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Catch_Music.pdb
+C:\Users\lgpc\Desktop\응소실\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.csproj.AssemblyReference.cache
+C:\Users\lgpc\Desktop\응소실\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.csproj.SuggestedBindingRedirects.cache
+C:\Users\lgpc\Desktop\응소실\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.Client.resources
+C:\Users\lgpc\Desktop\응소실\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.StartPage.resources
+C:\Users\lgpc\Desktop\응소실\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.MultiChoose.resources
+C:\Users\lgpc\Desktop\응소실\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.Properties.Resources.resources
+C:\Users\lgpc\Desktop\응소실\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.Server.resources
+C:\Users\lgpc\Desktop\응소실\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.MySet1.resources
+C:\Users\lgpc\Desktop\응소실\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.MySet2.resources
+C:\Users\lgpc\Desktop\응소실\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.MySet3.resources
+C:\Users\lgpc\Desktop\응소실\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.csproj.GenerateResource.cache
+C:\Users\lgpc\Desktop\응소실\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.csproj.CoreCompileInputs.cache
+C:\Users\lgpc\Desktop\응소실\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.exe
+C:\Users\lgpc\Desktop\응소실\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.pdb
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Catch_Music.exe.config
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Catch_Music.exe
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Catch_Music.pdb
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.Auth.dll
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.Core.dll
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.dll
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Newtonsoft.Json.dll
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.pdb
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.xml
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.Auth.xml
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.Core.pdb
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.Core.xml
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Newtonsoft.Json.xml
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.csproj.AssemblyReference.cache
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.csproj.SuggestedBindingRedirects.cache
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.Client.resources
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.StartPage.resources
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.MultiChoose.resources
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.Properties.Resources.resources
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.Server.resources
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.MySet1.resources
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.MySet2.resources
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.MySet3.resources
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.csproj.GenerateResource.cache
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.csproj.CoreCompileInputs.cache
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.csproj.CopyComplete
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.exe
+C:\Users\82105\Desktop\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.pdb
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.Auth.dll
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.Core.dll
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.dll
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Newtonsoft.Json.dll
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.pdb
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.xml
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.Auth.xml
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.Core.pdb
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.Core.xml
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\bin\Debug\Newtonsoft.Json.xml
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.StartPage.resources
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.MySet1.resources
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.MySet2.resources
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.MySet3.resources
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\CatchMusic\Catch_Music\Catch_Music\obj\Debug\Catch_Music.csproj.CopyComplete

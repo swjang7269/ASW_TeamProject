@@ -1,0 +1,11 @@
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\Test_Code\IP_test_dir\IP_test_3\IP_test_1\bin\Debug\IP_test_1.exe.config
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\Test_Code\IP_test_dir\IP_test_3\IP_test_1\bin\Debug\IP_test_1.exe
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\Test_Code\IP_test_dir\IP_test_3\IP_test_1\bin\Debug\IP_test_1.pdb
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\Test_Code\IP_test_dir\IP_test_3\IP_test_1\obj\Debug\IP_test_3.csproj.AssemblyReference.cache
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\Test_Code\IP_test_dir\IP_test_3\IP_test_1\obj\Debug\IP_test_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\Test_Code\IP_test_dir\IP_test_3\IP_test_1\obj\Debug\IP_test_1.Form1.resources
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\Test_Code\IP_test_dir\IP_test_3\IP_test_1\obj\Debug\IP_test_1.Properties.Resources.resources
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\Test_Code\IP_test_dir\IP_test_3\IP_test_1\obj\Debug\IP_test_3.csproj.GenerateResource.cache
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\Test_Code\IP_test_dir\IP_test_3\IP_test_1\obj\Debug\IP_test_3.csproj.CoreCompileInputs.cache
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\Test_Code\IP_test_dir\IP_test_3\IP_test_1\obj\Debug\IP_test_1.exe
+C:\Users\didru\OneDrive\바탕 화면\ASW_TeamProject\Test_Code\IP_test_dir\IP_test_3\IP_test_1\obj\Debug\IP_test_1.pdb

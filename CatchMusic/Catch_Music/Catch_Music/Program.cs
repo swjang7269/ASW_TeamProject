@@ -16,7 +16,8 @@ namespace Catch_Music
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new StartPage());
+            //Application.Run(new MultiChoose());
         }
     }
 }

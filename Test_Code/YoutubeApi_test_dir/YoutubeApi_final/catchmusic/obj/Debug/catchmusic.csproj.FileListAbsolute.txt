@@ -1,0 +1,285 @@
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\catchmusic.exe.config
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\catchmusic.exe
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\catchmusic.pdb
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\Google.Apis.Auth.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\Google.Apis.Core.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\Google.Apis.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\Google.Apis.pdb
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\Google.Apis.xml
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\Google.Apis.Auth.xml
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\Google.Apis.Core.pdb
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\Google.Apis.Core.xml
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\Interop.WMPLib.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.AssemblyReference.cache
+C:\Users\82105\Desktop\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.SuggestedBindingRedirects.cache
+C:\Users\82105\Desktop\catchmusic\catchmusic\obj\Debug\Interop.WMPLib.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.ResolveComReference.cache
+C:\Users\82105\Desktop\catchmusic\catchmusic\obj\Debug\catchmusic.Form1.resources
+C:\Users\82105\Desktop\catchmusic\catchmusic\obj\Debug\catchmusic.Properties.Resources.resources
+C:\Users\82105\Desktop\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.GenerateResource.cache
+C:\Users\82105\Desktop\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.CoreCompileInputs.cache
+C:\Users\82105\Desktop\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.CopyComplete
+C:\Users\82105\Desktop\catchmusic\catchmusic\obj\Debug\catchmusic.exe
+C:\Users\82105\Desktop\catchmusic\catchmusic\obj\Debug\catchmusic.pdb
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\AngleSharp.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\System.Buffers.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\System.Memory.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\System.Text.Json.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\System.ValueTuple.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\YoutubeExplode.dll
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\AngleSharp.xml
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\System.Buffers.xml
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\System.Memory.xml
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\System.Text.Json.xml
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\System.ValueTuple.xml
+C:\Users\82105\Desktop\catchmusic\catchmusic\bin\Debug\YoutubeExplode.xml
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\catchmusic.exe.config
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\catchmusic.exe
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\catchmusic.pdb
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\AngleSharp.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\Google.Apis.Auth.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\Google.Apis.Core.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\Google.Apis.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\System.Buffers.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\System.Memory.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\System.Text.Json.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\System.ValueTuple.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\YoutubeExplode.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\AngleSharp.xml
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\Google.Apis.pdb
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\Google.Apis.xml
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\Google.Apis.Auth.xml
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\Google.Apis.Core.pdb
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\Google.Apis.Core.xml
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\System.Buffers.xml
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\System.Memory.xml
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\System.Text.Json.xml
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\System.ValueTuple.xml
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\YoutubeExplode.xml
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\Interop.WMPLib.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.AssemblyReference.cache
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.SuggestedBindingRedirects.cache
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\obj\Debug\Interop.WMPLib.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.ResolveComReference.cache
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\obj\Debug\catchmusic.Form1.resources
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\obj\Debug\catchmusic.Properties.Resources.resources
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.GenerateResource.cache
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.CoreCompileInputs.cache
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.CopyComplete
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\obj\Debug\catchmusic.exe
+C:\Users\nonli\Documents\카카오톡 받은 파일\catchmusic\catchmusic\obj\Debug\catchmusic.pdb
+D:\Programe\catchmusic\catchmusic\bin\Debug\catchmusic.exe.config
+D:\Programe\catchmusic\catchmusic\bin\Debug\catchmusic.exe
+D:\Programe\catchmusic\catchmusic\bin\Debug\catchmusic.pdb
+D:\Programe\catchmusic\catchmusic\bin\Debug\AngleSharp.dll
+D:\Programe\catchmusic\catchmusic\bin\Debug\Google.Apis.Auth.dll
+D:\Programe\catchmusic\catchmusic\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Programe\catchmusic\catchmusic\bin\Debug\Google.Apis.Core.dll
+D:\Programe\catchmusic\catchmusic\bin\Debug\Google.Apis.dll
+D:\Programe\catchmusic\catchmusic\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Programe\catchmusic\catchmusic\bin\Debug\Google.Apis.YouTube.v3.dll
+D:\Programe\catchmusic\catchmusic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programe\catchmusic\catchmusic\bin\Debug\Newtonsoft.Json.dll
+D:\Programe\catchmusic\catchmusic\bin\Debug\System.Buffers.dll
+D:\Programe\catchmusic\catchmusic\bin\Debug\System.Memory.dll
+D:\Programe\catchmusic\catchmusic\bin\Debug\System.Numerics.Vectors.dll
+D:\Programe\catchmusic\catchmusic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programe\catchmusic\catchmusic\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Programe\catchmusic\catchmusic\bin\Debug\System.Text.Encodings.Web.dll
+D:\Programe\catchmusic\catchmusic\bin\Debug\System.Text.Json.dll
+D:\Programe\catchmusic\catchmusic\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Programe\catchmusic\catchmusic\bin\Debug\System.ValueTuple.dll
+D:\Programe\catchmusic\catchmusic\bin\Debug\YoutubeExplode.dll
+D:\Programe\catchmusic\catchmusic\bin\Debug\AngleSharp.xml
+D:\Programe\catchmusic\catchmusic\bin\Debug\Google.Apis.pdb
+D:\Programe\catchmusic\catchmusic\bin\Debug\Google.Apis.xml
+D:\Programe\catchmusic\catchmusic\bin\Debug\Google.Apis.Auth.pdb
+D:\Programe\catchmusic\catchmusic\bin\Debug\Google.Apis.Auth.xml
+D:\Programe\catchmusic\catchmusic\bin\Debug\Google.Apis.Core.pdb
+D:\Programe\catchmusic\catchmusic\bin\Debug\Google.Apis.Core.xml
+D:\Programe\catchmusic\catchmusic\bin\Debug\Google.Apis.YouTube.v3.pdb
+D:\Programe\catchmusic\catchmusic\bin\Debug\Google.Apis.YouTube.v3.xml
+D:\Programe\catchmusic\catchmusic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Programe\catchmusic\catchmusic\bin\Debug\Newtonsoft.Json.xml
+D:\Programe\catchmusic\catchmusic\bin\Debug\System.Buffers.xml
+D:\Programe\catchmusic\catchmusic\bin\Debug\System.Memory.xml
+D:\Programe\catchmusic\catchmusic\bin\Debug\System.Numerics.Vectors.xml
+D:\Programe\catchmusic\catchmusic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programe\catchmusic\catchmusic\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Programe\catchmusic\catchmusic\bin\Debug\System.Text.Encodings.Web.xml
+D:\Programe\catchmusic\catchmusic\bin\Debug\System.Text.Json.xml
+D:\Programe\catchmusic\catchmusic\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Programe\catchmusic\catchmusic\bin\Debug\System.ValueTuple.xml
+D:\Programe\catchmusic\catchmusic\bin\Debug\YoutubeExplode.xml
+D:\Programe\catchmusic\catchmusic\bin\Debug\Interop.WMPLib.dll
+D:\Programe\catchmusic\catchmusic\bin\Debug\AxInterop.WMPLib.dll
+D:\Programe\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.AssemblyReference.cache
+D:\Programe\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.SuggestedBindingRedirects.cache
+D:\Programe\catchmusic\catchmusic\obj\Debug\Interop.WMPLib.dll
+D:\Programe\catchmusic\catchmusic\obj\Debug\AxInterop.WMPLib.dll
+D:\Programe\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.ResolveComReference.cache
+D:\Programe\catchmusic\catchmusic\obj\Debug\catchmusic.Form1.resources
+D:\Programe\catchmusic\catchmusic\obj\Debug\catchmusic.Properties.Resources.resources
+D:\Programe\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.GenerateResource.cache
+D:\Programe\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.CoreCompileInputs.cache
+D:\Programe\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.CopyComplete
+D:\Programe\catchmusic\catchmusic\obj\Debug\catchmusic.exe
+D:\Programe\catchmusic\catchmusic\obj\Debug\catchmusic.pdb
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\catchmusic.exe.config
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\catchmusic.exe
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\catchmusic.pdb
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\AngleSharp.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\Google.Apis.Auth.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\Google.Apis.Core.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\Google.Apis.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\System.Buffers.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\System.Memory.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\System.Text.Json.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\System.ValueTuple.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\YoutubeExplode.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\AngleSharp.xml
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\Google.Apis.pdb
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\Google.Apis.xml
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\Google.Apis.Auth.xml
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\Google.Apis.Core.pdb
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\Google.Apis.Core.xml
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\System.Buffers.xml
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\System.Memory.xml
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\System.Text.Json.xml
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\System.ValueTuple.xml
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\YoutubeExplode.xml
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\Interop.WMPLib.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.AssemblyReference.cache
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.SuggestedBindingRedirects.cache
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\obj\Debug\Interop.WMPLib.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.ResolveComReference.cache
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\obj\Debug\catchmusic.Form1.resources
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\obj\Debug\catchmusic.Properties.Resources.resources
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.GenerateResource.cache
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.CoreCompileInputs.cache
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.CopyComplete
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\obj\Debug\catchmusic.exe
+C:\Users\rtg02\OneDrive\바탕 화면\새 압축\catchmusic\catchmusic\obj\Debug\catchmusic.pdb
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\catchmusic.exe.config
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\catchmusic.exe
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\catchmusic.pdb
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\AngleSharp.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\Google.Apis.Auth.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\Google.Apis.Core.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\Google.Apis.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\System.Buffers.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\System.Memory.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\System.Text.Json.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\System.ValueTuple.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\YoutubeExplode.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\AngleSharp.xml
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\Google.Apis.pdb
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\Google.Apis.xml
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\Google.Apis.Auth.xml
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\Google.Apis.Core.pdb
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\Google.Apis.Core.xml
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\System.Buffers.xml
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\System.Memory.xml
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\System.Text.Json.xml
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\System.ValueTuple.xml
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\YoutubeExplode.xml
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\Interop.WMPLib.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.AssemblyReference.cache
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.SuggestedBindingRedirects.cache
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\obj\Debug\Interop.WMPLib.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.ResolveComReference.cache
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\obj\Debug\catchmusic.Form1.resources
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\obj\Debug\catchmusic.Properties.Resources.resources
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.GenerateResource.cache
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.CoreCompileInputs.cache
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\obj\Debug\catchmusic.csproj.CopyComplete
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\obj\Debug\catchmusic.exe
+C:\Users\82105\Desktop\수정본\catchmusic\catchmusic\obj\Debug\catchmusic.pdb
